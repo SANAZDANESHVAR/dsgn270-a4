@@ -8,7 +8,9 @@
 
 
 1)A list of three open-source  repos that have Open Issues;
-   I used (https://goodfirstissues.com/)   to find open source GitHub repos, which are
+   I used 
+   (https://goodfirstissues.com/)   
+   to find open source GitHub repos, which are
    a)	(https://github.com/SANAZDANESHVAR/evalml)
    b)	(https://github.com/SANAZDANESHVAR/github-slideshow)
 
