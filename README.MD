@@ -11,8 +11,9 @@
    I used 
    (https://goodfirstissues.com/)   
    to find open source GitHub repos, which are
-   a) (https://github.com/SANAZDANESHVAR/evalml)
-   b)	(https://github.com/SANAZDANESHVAR/github-slideshow)
+   ### [link1] (https://github.com/SANAZDANESHVAR/evalml)
+   and 
+	### [link2](https://github.com/SANAZDANESHVAR/github-slideshow)
 
 2) 
    ### [A link to chosen Open Issue](https://github.com/firstcontributions) is chosen Open Issue with a description of what the first step to fixing it is;
