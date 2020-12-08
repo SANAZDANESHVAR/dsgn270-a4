@@ -21,11 +21,8 @@
      vincent Mirdana ;
 
 4) PRs Witnessed:
-    Jina Hwang :
-    
-###[A link to the submitted Pull Request](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/pull/970)
-
-     vincent Mirdana: 
-###[A link to the submitted Pull Request](https://github.com/firstcontributions/first-contributions/pull/35286)
+  
+###[A link to the submitted Pull Request](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/pull/970)  Jina Hwang .   
+###[A link to the submitted Pull Request](https://github.com/firstcontributions/first-contributions/pull/35286)  vincent Mirdana.
 
 
